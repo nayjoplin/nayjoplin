@@ -1,0 +1,55 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos para as seções */
+section {
+    padding: 2rem;
+    margin: 2rem 0;
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para as imagens dos projetos */
+.projeto img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para os links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para as listas */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Estilos para as redes sociais */
+#contato a {
+    display: inline-block;
+    margin-right: 10px;
+}
