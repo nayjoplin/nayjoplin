@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nayjoplin/nayjoplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -23,10 +9,6 @@ Here are some ideas to get you started:
     <title>Minha Página de Perfil</title>
 </head>
 <body>
-    <header>
-        <img src="perfil.jpg" alt="Minha Foto de Perfil">
-        <h1>Seu Nome</h1>
-    </header>
     
     <section id="informacoes">
         <h2>Informações Pessoais</h2>
