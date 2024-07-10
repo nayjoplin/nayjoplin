@@ -1,51 +1,35 @@
-### Hi there 👋
+# 👩🏾‍💻 Nay Rodrigues - @nayjoplin
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Minha Página de Perfil</title>
-</head>
-<body>
-    
-    <section id="informacoes">
-        <h2>Informações Pessoais</h2>
-        <p>Idade: 27 anos</p>
-        <p>Localização: Vinhedo, SP | Brasil</p>
-        <p>🌟 Apaixonada por tecnologia e criatividade, estou embarcando na jornada da programação. 
-            Como futura desenvolvedora, busco unir o melhor do design e da lógica para criar soluções incríveis. 
-            Com a mente aberta para o aprendizado constante, estou determinada a alcançar grandes conquistas no mundo da programação. 🚀✨</p>
-    </section>
-    
-    <section id="habilidades">
-        <h2>Habilidades</h2>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Iniciante em JavaScript</li>
-        </ul>
-    </section>
-    
-    <section id="projetos">
-        <h2>Projetos</h2>
-        <div class="projeto">
-            <img src="projeto1.jpg" alt="Projeto 1">
-            <p>Descrição breve do Projeto 1.</p>
-            <a href="link-para-repositorio-1" target="_blank">Ver no GitHub</a>
-        </div>
-        <div class="projeto">
-            <img src="projeto2.jpg" alt="Projeto 2">
-            <p>Descrição breve do Projeto 2.</p>
-            <a href="link-para-repositorio-2" target="_blank">Ver no GitHub</a>
-        </div>
-    </section>
-    
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Email: nayjoplin96@gmail.com</p>
-        <p>Redes Sociais: <a href="link-para-rede-social">Instagram</a>, <a href="outra-rede-social">LinkedIn</a></p>
-    </section>
-</body>
-</html>
+Alô, seja bem-vindo ao meu repositório! 🌟
+
+Sou Nay Rodrigues, uma desenvolvedora full stack em formação, apaixonada por tecnologia e design. Atualmente, trabalho como Head do time de marketing na Sarah K Professional, onde posso aplicar minha criatividade e habilidades técnicas para criar projetos incríveis, seja de forma estratégica ou web.
+
+## 🚀 Sobre Mim
+
+- 🎨 **Formação:** Artes Visuais pela PUC Campinas, cursando ADS e Full stack .
+- 💖 **Mãe do Lucas:** Um menino incrível de oito anos.
+- 🌍 **Localização:** Vinhedo, SP.
+
+## 🌟 Habilidades
+
+- **UX/UI Design:** Criação de interfaces intuitivas e atraentes.
+- **Desenvolvimento Web:** Desenvolvimento de sites responsivos e funcionais.
+- **SEO:** Otimização de sites para motores de busca.
+
+## 📚 Projetos
+
+Aqui vou compartilhar alguns dos meus projetos mais recentes, em breve atualizarei :)
+
+## 📹 Diário de Estudos
+
+Eu também estou desenvolvendo um diário de estudos em formato de vlog, onde vou compartilhar minha jornada de aprendizado em desenvolvimento full stack na CoderHouse!
+
+## 📬 Contato
+
+Vamos nos conectar! 
+
+- **Email:** [nayjoplin96@gmail.com](mailto:nayjoplin96@gmail.com)
+- **LinkedIn:** [Nay Rodrigues](https://www.linkedin.com/in/nay-rodrigues/)
+- **GitHub:** [nayrodrigues](https://github.com/nayjoplin/)
+
+
