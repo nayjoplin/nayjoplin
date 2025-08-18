@@ -1,57 +1,65 @@
 name: GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 * * * *" # roda todo início de hora
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 * * * *"        # Atualiza no início de cada hora
+  workflow_dispatch:            # Permite rodar manualmente
 
 permissions:
-  contents: write         # 🔑 permite commitar no repositório
+  contents: write               # <- Necessário para commitar o SVG no repo
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate metrics
+      - name: Generate & commit metrics
         uses: lowlighter/metrics@latest
         with:
+          # --- Tokens ---
+          # METRICS_TOKEN: PAT (classic) com escopos: repo, read:user, read:org
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          base: header, repositories, metadata
+          # GITHUB_TOKEN embutido do Actions para fazer o commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- Saída do arquivo ---
+          filename: github-metrics.svg        # nome do arquivo na raiz do repo
+          output_action: commit               # o próprio action faz o commit
+          committer_branch: main              # branch onde salvar
+          committer_message: "chore: update metrics [skip ci]"
+
+          # --- Base & timezone ---
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
 
-          # 📊 Plugins ativos
+          # --- Calendário de contribuições (ano todo) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+          # --- Linguagens (detalhadas) ---
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_languages_limit: 10
           plugin_languages_details: percentage, bytes-size, lines
-          plugin_languages_limit: 8
 
+          # --- Hábitos de coding (hora/dia) ---
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
+          # --- Atividade recente ---
           plugin_activity: yes
-          plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
+          plugin_activity_limit: 5
 
+          # --- Linhas alteradas e follow-ups ---
           plugin_lines: yes
           plugin_followup: yes
 
-          # ⏱️ Wakatime
+          # --- WakaTime (tempo real de código) ---
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
-      - name: Commit metrics
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-metrics.svg
-          git commit -m "chore: update metrics [skip ci]" || echo "No changes"
-          git push
+          # --- Desativado (bug no GraphQL com Projects classic) ---
+          plugin_achievements: no
