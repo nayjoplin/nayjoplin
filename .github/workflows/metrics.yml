@@ -1,6 +1,6 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # roda todo dia à meia-noite
+  schedule: [{cron: "0 0 * * *"}] # Roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -18,19 +18,35 @@ jobs:
           base: header, repositories, metadata
           config_timezone: America/Sao_Paulo
 
-          # Plugins extras
+          # --- Plugins visuais e avançados ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_details: percentage, bytes-size
+          plugin_languages_details: percentage, bytes-size, lines
+          plugin_languages_limit: 10
 
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_isocalendar: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
 
           plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B
+
           plugin_lines: yes
+          plugin_followup: yes
+
+          # Opcional: tempo real de dev (precisa integrar com Wakatime depois)
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit metrics
         run: |
