@@ -25,6 +25,10 @@
   <img src="https://raw.githubusercontent.com/nayjoplin/nayjoplin/main/github-metrics.svg" />
 </p>
 
+### ⏱️ Estatísticas do meu tempo de código
+![Metrics](https://github.com/nayjoplin/nayjoplin/blob/main/github-metrics.svg)
+
+
 ---
 
 ## 🚀 Projetos em Destaque  
