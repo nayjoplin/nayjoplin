@@ -1,70 +1,39 @@
-<!-- Banner imagem -->
+# Nay Rodrigues – Tech Lead em 3 anos  
+
+## 👋 Olá, eu sou a Nay Rodrigues!  
+
+💻 **Desenvolvedora Full Cycle** | Em formação para **Tech Lead até 2028**  
+🎯 **Objetivo:** R$ 15k/mês criando soluções digitais de impacto  
+⏳ Atualmente: **21 projetos em 2 meses**  
+
+---
+
+## ⭐ Minhas Skills  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 Estatísticas em tempo real  
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Nay+Rodrigues+-+Tech+Lead+em+formação" alt="Banner Portfólio" />
-</p>
-
-# 👋 Olá, eu sou a Nay Rodrigues! 💥
-
-👩‍💻 Em formação em **ADS na Estácio** e pronta para assumir a posição de **Tech Lead**.  
-🎯 Meu objetivo: conquistar **R$ 9k/mês** criando soluções digitais impecáveis.  
-⏳ **Meta curta:** brilhar em **2 meses com 21 projetos** nas áreas de Front-End, Back-End e UI/UX.  
-
----
-
-## 🚀 Skills & Ferramentas  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
+  <img src="https://raw.githubusercontent.com/nayjoplin/nayjoplin/main/github-metrics.svg" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque  
+## 🚀 Projetos em Destaque  
 
-<details>
-  <summary><b>Veja os 3 projetos já prontos + descrição</b></summary><br>
-
-- 🎨 **LP Jornada Técnica – SARAH K** *(UI/UX)*: landing page com navegação clara e visual chamativo.  
-- 📖 **LP O Livro Proibido de Maria Padilha** *(Full Stack)*: front, backend e UX integrados, experiência imersiva.  
-- 📱 **Vida Bipolar – App Mobile em Flutter** *(UI/UX + lógica)*: app de rastreamento de humor, com UI fluida e intuitiva.  
-</details>
+- **Virada de Chave 🔑 – App Mobile (Flutter + SQLite)**  
+- **LP Jornada Técnica – Sarah K (UI/UX + Front-End)**  
+- **API de Autenticação em Java + Spring Boot (Back-End)**  
+- **O Livro Proibido de Maria Padilha – Full Stack Web**  
 
 ---
 
-## 🎓 Formação & Bootcamps  
-
-| Curso / Bootcamp                          | Instituição                  | Status/Período   |
-|-------------------------------------------|------------------------------|------------------|
-| ADS (Análise e Desenvolvimento de Sistemas) | Estácio                      | 2024 – em curso  |
-| Back-End (Java) Bootcamp                   | Santander                    | ✔ concluído 2025 |
-| Full Stack AWS Bootcamp                    | Santander Code Girls          | 🚀 inicia set/25 |
-| Desenvolvimento de Software                | Programa Desenvolve (Boticário) | ✔ concluído 2024 |
-
----
-
-## 📊 GitHub Stats  
-
-![Nay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayjoplin&show_icons=true&theme=radical)  
-![Nay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayjoplin&theme=radical)
-
----
-
-## 🌐 Me encontre por aí  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nayrodrigues">
-    <img src="https://img.shields.io/badge/LinkedIn-Nay-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nayjoplin96@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nayjoplin">
-    <img src="https://img.shields.io/badge/Instagram-@nayjoplin-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+📌 *Atualizado automaticamente todos os dias via GitHub Actions* ⚡
