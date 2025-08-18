@@ -44,9 +44,9 @@ jobs:
           plugin_followup: yes
 
           # Opcional: tempo real de dev (precisa integrar com Wakatime depois)
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_achievements: no
+          plugin_wakatime: no
+
 
       - name: Commit metrics
         run: |
