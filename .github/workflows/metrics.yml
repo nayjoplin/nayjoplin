@@ -1,16 +1,20 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda 1x por dia à meia-noite
+  schedule: [{cron: "0 0 * * *"}] # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg   # <-- ESSA LINHA É ESSENCIAL
+          filename: github-metrics.svg
           base: header, repositories, metadata
           config_timezone: America/Sao_Paulo
 
@@ -27,3 +31,11 @@ jobs:
 
           plugin_achievements: yes
           plugin_lines: yes
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "chore: update metrics" || echo "No changes to commit"
+          git push
