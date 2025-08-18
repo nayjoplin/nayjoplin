@@ -19,7 +19,7 @@ Trabalho com **design encantador + código sólido** para construir produtos com
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td align="center" width="25%">
 
 **🎨 UI/UX**
 
@@ -32,7 +32,7 @@ Trabalho com **design encantador + código sólido** para construir produtos com
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-111111?style=for-the-badge)
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 
 **⚡ Front-end**
 
@@ -45,7 +45,7 @@ Trabalho com **design encantador + código sólido** para construir produtos com
 ![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-111111?style=for-the-badge&logo=git)
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 
 **☕ Back-end**
 
@@ -58,7 +58,7 @@ Trabalho com **design encantador + código sólido** para construir produtos com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 
 **📱 Mobile**
 
