@@ -1,107 +1,96 @@
-# ✨ Nay Rodrigues
+<h3>_alô pessoal, eu sou Nay Rodrigues <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
+<img align="right" <img src="assets/nay-cartoon.gif" width="190" alt="Nay Cartoon">
+Do marketing estratégico que rodou em mais de 50 países, mergulhei no código para criar soluções reais.
+Hoje minha stack é Java, React e Flutter, e essa é a minha virada de chave rumo a Tech Lead.<p>
 
-💻 **Software Developer in Progress | Future Tech Lead**  
-🚀 **Análise e Desenvolvimento de Sistemas – Estácio** (2º semestre)  
-📚 Bootcamps: **Santander Backend Java**, **Fullstack AWS Code Girls**, **Desenvolve Grupo Boticário**  
 
----
-
-### 🌸 Quem sou eu
-Sou movida pela disciplina e pela paixão de **criar, liderar e transformar** através da tecnologia.  
-Trabalho com **design encantador + código sólido** para construir produtos com impacto real.
-
-- 🔥 Objetivo: ser **Tech Lead em até 3 anos**  
-- 🌐 Idiomas: **Português (nativo)** | **Espanhol (intermediário)**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-rodrigues)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayjoplin)
+[![Email](https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayjoplin96@gmail.com)
 
 ---
 
-### 🛠️ Habilidades (por área)
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🎨 UI/UX**
-
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Design System](https://img.shields.io/badge/Design%20System-111111?style=for-the-badge)  
-![Prototipagem](https://img.shields.io/badge/Prototipagem-111111?style=for-the-badge)  
-![UX Writing](https://img.shields.io/badge/UX%20Writing-111111?style=for-the-badge)  
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-111111?style=for-the-badge)
-
-</td>
-<td align="center" width="25%">
-
-**⚡ Front-end**
-
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-111111?style=for-the-badge&logo=git)
-
-</td>
-<td align="center" width="25%">
-
-**☕ Back-end**
-
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![APIs REST](https://img.shields.io/badge/APIs%20REST-111111?style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**📱 Mobile**
-
-<br>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions)
-</td>
-</tr>
-</table>
-
-> ⏱️ **Horas por stack e linguagens**: contabilizadas automaticamente via **WakaTime** no painel de métricas abaixo.
+🌍 Com base no Brasil, mas meus códigos rodam no mundo todo <br>
+🚀 Estudante de **ADS (Estácio)** e Desenvolvedora **Full Stack** em formação <br>
+💻 Explorando **Java | React | Flutter | Python | JavaScript** <br>
+🎯 Em transição do **Marketing Estratégico** para a **Tecnologia**, rumo a **Tech Lead** <br><br>
 
 ---
 
-### 🔗 Portfólio
-👉 [**Acesse meu Portfólio Completo no Notion**](https://nayjoplin.notion.site)
-
----
-
-### 🚀 Projetos em Destaque
-- **Virada de Chave 🔑** – app mobile (Flutter + SQLite)  
-- **LP Jornada Técnica – Sarah K** – UI/UX + Front-end  
-- **API de Autenticação** – Java + Spring Boot (Back-end)  
-- **O Livro Proibido de Maria Padilha** – Full Stack Web  
-
----
-
-### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayrodrigues)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayjoplin)
-[![Portfólio](https://img.shields.io/badge/Notion%20Portfólio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://nayjoplin.notion.site)
-
----
-
-### 📈 Métricas em tempo real
+## _trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nayjoplin/nayjoplin/main/github-metrics.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nayjoplin&theme=aura&row=1&column=5&no-bg=true&no-frame=true" />
 </p>
 
 ---
+## ⭐️_projetos destacados
 
-✨ *Códigos que resolvem. Designs que encantam. Projetos que inspiram.*
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nayjoplin/java-backend-api"><b>🚀 API de Gerenciamento (Java + Spring Boot)</b></a></td>
+      <td>API REST desenvolvida em Java com Spring Boot para gerenciamento de usuários, autenticação JWT e integração com banco de dados relacional.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nayjoplin/react-portfolio"><b>🎨 Portfólio Pessoal (React + UI/UX)</b></a></td>
+      <td>Portfólio responsivo criado em React, com design baseado em UI/UX, integração com GitHub Pages e showcase de projetos em tempo real.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nayjoplin/flutter-app"><b>📱 Virada de Chave App (Flutter)</b></a></td>
+      <td>Aplicativo mobile construído em Flutter, totalmente offline, focado em autocuidado, espiritualidade e organização pessoal.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nayjoplin/cms-dashboard"><b>🗄️ CMS Dashboard (React + Node.js)</b></a></td>
+      <td>Painel administrativo integrado a WordPress via API, com autenticação e gráficos de métricas. Inspirado em modelos profissionais de CMS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nayjoplin/mental-health-tracker"><b>🧠 Mental Health Tracker (Flutter + SQLite)</b></a></td>
+      <td>App de rastreamento de humor, hábitos e rituais com banco de dados local, relatórios semanais e interface minimalista.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## _estatísticas
+
+| GitHub Stats | Streak | Top Languages |
+| --- | --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=nayjoplin&show_icons=true&theme=midnight-purple" height="150"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=nayjoplin&theme=midnight-purple&hide_border=false" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayjoplin&layout=compact&theme=midnight-purple" height="150"/> |
+
+---
+
+## _tech stack
+
+![Java](https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-9370DB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9932CC?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=111)
+
+---
+
+## _conquistas y bootcamps
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>_conquistas</b></td>
+      <td>
+        • Fundamentos da Linguagem de Programação Java <br>
+        • Contribuindo em Projeto Open Source no GitHub <br>
+        • Desafios de Projetos: Portfólio Vencedor <br>
+        • Versionamento de Código com Git e GitHub <br>
+        • Introdução ao Java e Ambiente de Desenvolvimento <br>
+        • Introdução ao <b>GFT Start #7</b>
+      </td>
+    </tr>
+    <tr>
+      <td><b>_bootcamps</b></td>
+      <td>
+        <img src="assets/java-backend.png" width="220" alt="Bootcamp Java Backend"/>
+        <img src="assets/gft-start7.png" width="220" alt="Bootcamp GFT Start #7"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
