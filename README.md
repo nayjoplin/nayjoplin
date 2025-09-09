@@ -88,9 +88,9 @@ Hoje minha stack é Java, React e Flutter, e essa é a minha virada de chave rum
     <tr>
       <td><b>_bootcamps</b></td>
       <td>
-        <img src="assets/java-backend.png" width="220" alt="Bootcamp Java Backend"/>
-        <img src="assets/gft-start7.png" width="220" alt="Bootcamp GFT Start #7"/>
-      </td>
-    </tr>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/67493ec8-3022-49e1-bde8-a3fc12db5f0a" />
+<img width="100" height="120" alt="image" src="https://github.com/user-attachments/assets/5b47685c-bb4e-4964-b4a1-7d98d2e8c4f7" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/11dd16cb-7460-4224-a980-2758ad37a341" />
+
   </tbody>
 </table>
