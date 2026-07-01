@@ -2,9 +2,13 @@
 
 <img align="right" src="assets/nay-cartoon.gif" width="190" alt="Nay Cartoon">
 
-Marketing & Growth Coordinator transitioning into Software Engineering, Data Analytics and Business Technology.
+I come from Growth, Marketing and Digital Projects — and now I’m bringing that business brain into tech.
 
-I combine multidisciplinary project leadership, performance-driven strategy, product thinking, data analysis, UI/UX and hands-on back-end development. I am currently studying Computer Engineering, Information Technology and Systems Analysis & Development, while building a portfolio focused on financial services, analytics, banking, fintechs, consulting and beauty tech.
+For the past few years, I’ve been leading campaigns, organizing teams, building digital experiences and looking at numbers every day to understand what works, what doesn’t and what can be improved.
+
+Now I’m studying Computer Engineering, Information Technology and Systems Analysis & Development, while building projects with Java, Python, SQL, APIs and data analytics.
+
+I’m especially interested in financial services, banking, analytics, product, consulting and beauty tech — basically, places where technology needs to solve real business problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-rodrigues)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayjoplin)
@@ -13,14 +17,14 @@ I combine multidisciplinary project leadership, performance-driven strategy, pro
 
 ---
 
-## _about me
+## _a little more about me
 
-- 🎯 **Marketing & Growth Coordinator** with experience in project management, campaigns, data, e-commerce, branding and performance.
-- 👥 Experience leading **multidisciplinary teams and projects**, connecting marketing, design, content, technology, vendors and commercial stakeholders.
-- 💻 Studying **Computer Engineering**, **Information Technology** and **Systems Analysis & Development**.
-- ☕ Hands-on experience in **Java back-end development** through GFT Technologies.
-- 📊 Building projects with **Java, Python, SQL, Power BI, APIs, data analytics and digital product strategy**.
-- 🏦 Interested in **financial services, banking, fintechs, investments, strategic consulting and digital transformation**.
+- 🎯 I work as a **Marketing & Growth Coordinator**, leading projects across content, design, performance, e-commerce, branding and digital campaigns.
+- 👥 I’m used to working with multidisciplinary teams — designers, content creators, sales teams, vendors, developers and business stakeholders.
+- ☕ I also had hands-on experience with **Java back-end development** at GFT Technologies.
+- 📊 I like projects that mix **data, product, user experience and business strategy**.
+- 💻 Right now, I’m building my technical foundation with **Java, Python, SQL, Power BI, APIs and software engineering fundamentals**.
+- 🏦 My current portfolio is focused on **banking, fintech, financial data, analytics and beauty tech**.
 
 ---
 
@@ -101,17 +105,17 @@ I combine multidisciplinary project leadership, performance-driven strategy, pro
 
 ---
 
-## _education and development
+## _studying now
 
 - Computer Engineering — UNIVESP
 - Information Technology — UNIVESP
 - Systems Analysis and Development — Universidade Estácio de Sá
 - CPA ANBIMA — in progress
-- DIO — technology, Git/GitHub, Java and hands-on project tracks
+- DIO — Java, Git/GitHub and hands-on project tracks
 - Harvard Leadership — complementary leadership development
 
 ---
 
-## _positioning
+## _what I’m building towards
 
-> From Growth Strategy to Software Engineering — building data-driven solutions with business impact.
+> I’m learning to build the kind of technology I used to wish I had while leading growth, marketing and digital projects.
