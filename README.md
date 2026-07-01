@@ -1,79 +1,79 @@
-<h3>_alô pessoal, eu sou Nay Rodrigues <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
+<h3>Hi, I'm Nay Rodrigues <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
 
 <img align="right" src="assets/nay-cartoon.gif" width="190" alt="Nay Cartoon">
 
-Coordenadora de Marketing e Growth em transição estratégica para tecnologia, dados e engenharia de software.
+Marketing & Growth Coordinator transitioning into Software Engineering, Data Analytics and Business Technology.
 
-Minha trajetória une coordenação de equipe multidisciplinar, projetos digitais, performance, produto, dados, UI/UX e desenvolvimento back-end Java. Hoje estudo Engenharia da Computação, Bacharelado em Tecnologia da Informação e Análise e Desenvolvimento de Sistemas, construindo um portfólio com foco em mercado financeiro, analytics, bancos, fintechs, consultoria e beauty tech.
+I combine multidisciplinary project leadership, performance-driven strategy, product thinking, data analysis, UI/UX and hands-on back-end development. I am currently studying Computer Engineering, Information Technology and Systems Analysis & Development, while building a portfolio focused on financial services, analytics, banking, fintechs, consulting and beauty tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-rodrigues)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayjoplin)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9932CC?style=for-the-badge&logo=vercel&logoColor=white)](https://nayjoplin.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9932CC?style=for-the-badge&logo=vercel&logoColor=white)](https://nayjoplin.github.io)
 [![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayjoplin96@gmail.com)
 
 ---
 
-## _sobre mim
+## _about me
 
-- 🎯 Coordenadora de **Marketing e Growth**, com experiência em gestão de projetos, campanhas, dados, e-commerce, branding e performance.
-- 👥 Vivência em **coordenação de equipe multidisciplinar e projetos**, conectando marketing, design, conteúdo, tecnologia, fornecedores e áreas comerciais.
-- 💻 Estudante de **Engenharia da Computação**, **Bacharelado em Tecnologia da Informação** e **Análise e Desenvolvimento de Sistemas**.
-- ☕ Experiência em **desenvolvimento back-end Java** pela GFT Technologies.
-- 📊 Construindo projetos em **Java, Python, SQL, Power BI, APIs, dados, analytics e produto digital**.
-- 🏦 Interesse em **mercado financeiro, bancos, fintechs, investimentos, consultoria estratégica e transformação digital**.
+- 🎯 **Marketing & Growth Coordinator** with experience in project management, campaigns, data, e-commerce, branding and performance.
+- 👥 Experience leading **multidisciplinary teams and projects**, connecting marketing, design, content, technology, vendors and commercial stakeholders.
+- 💻 Studying **Computer Engineering**, **Information Technology** and **Systems Analysis & Development**.
+- ☕ Hands-on experience in **Java back-end development** through GFT Technologies.
+- 📊 Building projects with **Java, Python, SQL, Power BI, APIs, data analytics and digital product strategy**.
+- 🏦 Interested in **financial services, banking, fintechs, investments, strategic consulting and digital transformation**.
 
 ---
 
-## _projetos de portfólio
+## _portfolio projects
 
-### Finanças, bancos e dados
+### Finance, banking and data
 
 <table>
   <tbody>
     <tr>
       <td><a href="./portfolio-projects/digital-banking-api"><b>Digital Banking API</b></a></td>
-      <td>API bancária em Java e Spring Boot para clientes, contas, saldo, transações e regras de negócio.</td>
+      <td>Java and Spring Boot banking API for customers, accounts, balances, transactions and business rules.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/credit-risk-scoring"><b>Credit Risk Scoring</b></a></td>
-      <td>Análise de risco de crédito com Python, Pandas, SQL e modelo inicial de classificação.</td>
+      <td>Credit risk analysis with Python, Pandas, SQL and an initial classification model.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/fraud-detection-system"><b>Fraud Detection System</b></a></td>
-      <td>Detecção de possíveis fraudes em transações financeiras com regras, dados e dashboard de alertas.</td>
+      <td>Detection of potentially suspicious financial transactions using rules, data analysis and alert dashboards.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/personal-investment-portfolio-analyzer"><b>Personal Investment Portfolio Analyzer</b></a></td>
-      <td>Análise de carteira de investimentos, rentabilidade, diversificação e visualização de performance.</td>
+      <td>Investment portfolio analysis focused on returns, diversification and financial performance visualization.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/financial-data-pipeline"><b>Financial Data Pipeline</b></a></td>
-      <td>Pipeline ETL financeiro com Python, SQL, PostgreSQL e Power BI.</td>
+      <td>Financial ETL pipeline using Python, SQL, PostgreSQL and Power BI.</td>
     </tr>
   </tbody>
 </table>
 
-### Beauty Tech, CRM e inteligência comercial
+### Beauty Tech, CRM and commercial intelligence
 
 <table>
   <tbody>
     <tr>
       <td><a href="./portfolio-projects/beauty-sales-intelligence-dashboard"><b>Beauty Sales Intelligence Dashboard</b></a></td>
-      <td>Dashboard de vendas, produtos, canais e performance para marcas de beleza e e-commerce.</td>
+      <td>Sales, product, channel and performance dashboard for beauty brands and e-commerce operations.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/crm-beauty-retention-engine"><b>CRM Beauty Retention Engine</b></a></td>
-      <td>Segmentação de clientes para retenção, recompra, relacionamento e growth.</td>
+      <td>Customer segmentation for retention, repurchase, relationship strategy and growth.</td>
     </tr>
     <tr>
       <td><a href="./portfolio-projects/ai-beauty-product-recommendation"><b>AI Beauty Product Recommendation</b></a></td>
-      <td>API e lógica de recomendação de produtos de beleza com base em perfil e necessidade do usuário.</td>
+      <td>Product recommendation API and logic based on user profile, goals and needs.</td>
     </tr>
   </tbody>
 </table>
 
-📌 Ver índice completo: [portfolio-projects](./portfolio-projects)  
-🗺️ Ver roadmap de execução: [project-roadmap.md](./portfolio-projects/project-roadmap.md)
+📌 Full project index: [portfolio-projects](./portfolio-projects)  
+🗺️ Execution roadmap: [project-roadmap.md](./portfolio-projects/project-roadmap.md)
 
 ---
 
@@ -93,7 +93,7 @@ Minha trajetória une coordenação de equipe multidisciplinar, projetos digitai
 
 ---
 
-## _estatísticas
+## _github stats
 
 | GitHub Stats | Streak | Top Languages |
 | --- | --- | --- |
@@ -101,17 +101,17 @@ Minha trajetória une coordenação de equipe multidisciplinar, projetos digitai
 
 ---
 
-## _formação e desenvolvimento
+## _education and development
 
-- Engenharia da Computação — UNIVESP
-- Bacharelado em Tecnologia da Informação — UNIVESP
-- Análise e Desenvolvimento de Sistemas — Universidade Estácio de Sá
-- CPA ANBIMA — em preparação
-- DIO — trilhas de tecnologia, Git/GitHub, Java e projetos práticos
-- Harvard Leadership — formação complementar em liderança
+- Computer Engineering — UNIVESP
+- Information Technology — UNIVESP
+- Systems Analysis and Development — Universidade Estácio de Sá
+- CPA ANBIMA — in progress
+- DIO — technology, Git/GitHub, Java and hands-on project tracks
+- Harvard Leadership — complementary leadership development
 
 ---
 
-## _posicionamento
+## _positioning
 
-> Tecnologia com visão de negócio, dados com foco em decisão e growth com pensamento de produto.
+> From Growth Strategy to Software Engineering — building data-driven solutions with business impact.
