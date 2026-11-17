@@ -1,121 +1,85 @@
 <div align="center">
 
-[![Nay Rodrigues — Software, IA e Dados](assets/readme-banner.svg)](https://nayjoplin.github.io/)
+[![Nay Rodrigues](assets/readme-banner.svg)](https://nayjoplin.github.io/)
 
-<br>
+### Nay Rodrigues
 
-[![Portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-171614?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nayjoplin.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B9694C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-rodrigues)
-[![Projetos](https://img.shields.io/badge/PROJETOS-171614?style=for-the-badge&logo=github&logoColor=white)](https://nayjoplin.github.io/tech.html)
-[![Contato](https://img.shields.io/badge/CONTATO-B9694C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayjoplin96@gmail.com)
+**Software Development · Inteligência Artificial · Dados · Growth**
 
-</div>
-
-## Oi, eu sou a Nay.
-
-Minha trajetória passa por **desenvolvimento back-end, Growth, MarTech e análise de dados**. Trabalhei com operações digitais, CRM, campanhas e equipes — e encontrei no desenvolvimento de software uma forma de ir além dos diagnósticos: construir ferramentas para resolver os problemas.
-
-Estudei **Java, Spring Boot, APIs REST e SQL**, com formações complementares incluindo a GFT e a DIO. Hoje continuo aprofundando Java, Python e inteligência artificial aplicada. Quero criar soluções que façam sentido para quem usa, com uma base técnica sólida e olhar para o negócio.
-
-> **Da estratégia ao código. Do problema à solução.**
-
-**Atualmente:** estudante de **Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul)**, **Marketing (UniBF)** e trajetória em **BTI / Engenharia da Computação (UNIVESP)** com situação da mudança de curso a confirmar
-
----
-
-## Projetos selecionados
-
-Reúno projetos de trabalho, estudos e produtos em fases diferentes, com separação entre o que está implementado e o que ainda está no roteiro
-
-### Growth, dados e produto
-
-| Projeto | Estado verificado | Acesso |
-| :--- | :--- | :--- |
-| **Optical Growth OS V2** | Protótipo local com dados fictícios, integração real a validar | [Case](https://nayjoplin.github.io/cases/optical-growth-os.html) |
-| **Okan Nexus** | Repositório com código, execução ainda a validar | [Código](https://github.com/nayjoplin/okan-nexus-dash) |
-| **Gerador de Currículos** | Repositório existente, funcionalidades a auditar | [Código](https://github.com/nayjoplin/gerador-de-curriculo) |
-| **Growth Intelligence Platform** | Blueprint de 8 etapas, implementação planejada | [Plano](./portfolio-projects/growth-intelligence-platform/README.md) |
-
-### Backend e engenharia de software
-
-| Projeto | Origem e estado | Acesso |
-| :--- | :--- | :--- |
-| **Hospital Microservices** | Código existente em Java e Spring, execução a revisar, vínculo acadêmico não confirmado | [Código](https://github.com/nayjoplin/hospital-microservices2) |
-| **Banco Digital POO** | Exercício do Santander + DIO com operações em Java | [Código](https://github.com/nayjoplin/banco-digital-poo-dio) |
-| **Design Patterns Java** | Exercício Santander + DIO, padrões Singleton, Strategy e Facade | [Código](https://github.com/nayjoplin/explorando-design-patterns-java_) |
-| **Digital Banking API** | Evolução autoral planejada do exercício original | [Plano](./portfolio-projects/digital-banking-api/README.md) |
-
-### Inteligência artificial
-
-| Projeto | Contexto | Acesso |
-| :--- | :--- | :--- |
-| **ResolveAI** | Projeto informado no currículo como TCC da Cruzeiro do Sul, em desenvolvimento | [Plano](./portfolio-projects/resolve-ai/README.md) |
-| **DemandIQ** | Previsão de demanda, projeto autoral planejado | [Plano](./portfolio-projects/demandiq/README.md) |
-| **SentinelAI** | Avaliação de qualidade de respostas de IA, projeto autoral planejado | [Plano](./portfolio-projects/sentinel-ai/README.md) |
-
-[Ver todos os blueprints de 8 dias](./portfolio-projects/README.md) · [Portfólio online](https://nayjoplin.github.io/tech.html)
-
----
-
-## Tecnologias e ferramentas
-
-<div>
-
-![Java](https://img.shields.io/badge/JAVA-171614?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-B9694C?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-171614?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-B9694C?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/APIs_REST-171614?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-B9694C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-171614?style=flat-square&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-B9694C?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-171614?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-B9694C?style=flat-square&logo=css3&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-171614?style=flat-square&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-B9694C?style=flat-square&logo=powerbi&logoColor=white)
+[Portfólio](https://nayjoplin.github.io/) · [LinkedIn](https://www.linkedin.com/in/nay-rodrigues) · [Tech](https://nayjoplin.github.io/tech.html) · [Growth](https://nayjoplin.github.io/marketing.html)
 
 </div>
 
-**Também trago do trabalho:** CRM, métricas de negócio, automação de processos, gestão de projetos digitais e experimentação com ferramentas de IA.
+## Sobre mim
 
----
+Minha experiência começou no marketing e na operação de negócios digitais, trabalhando com campanhas, CRM, análise de resultados, projetos e equipes
 
-## O que minha experiência acrescenta ao código
+Hoje levo esse repertório para o desenvolvimento de software e inteligência artificial, com interesse especial em backend Java, Python, dados e produtos que resolvem problemas de verdade
 
-| Desenvolvimento | Negócios & produto |
-| :--- | :--- |
-| Java, APIs REST, SQL, versionamento e testes | Diagnóstico de problemas, métricas e organização de processos |
-| Projetos de back-end, dados e IA aplicada | Experiência com operações B2B/B2C, CRM e Growth |
-| Aprendizado técnico contínuo e documentação | Liderança de equipe multidisciplinar e coordenação de projetos digitais |
+Gosto de entender o contexto de uma operação, investigar o que precisa melhorar e transformar esse diagnóstico em algo útil para as pessoas que vão usar a solução
 
-Na minha trajetória em marketing e Growth, **coordenei uma equipe de aproximadamente 12 profissionais** e participei da gestão de **mais de 20 projetos digitais**. Minha meta é levar essa visão prática para a construção de software, não apenas para a estratégia.
+## Projetos em destaque
 
----
+### Engenharia de software
 
-## Formação & desenvolvimento
+| Projeto | O que apresento | Tecnologias |
+| --- | --- | --- |
+| [Hospital Microservices](https://github.com/nayjoplin/hospital-microservices2) | Sistema de gerenciamento hospitalar organizado em serviços, com código e documentação de arquitetura | Java 21, Spring Boot, RabbitMQ, Docker |
+| [Banco Digital](https://github.com/nayjoplin/banco-digital-poo-dio) | Contas correntes e poupança, depósitos, saques e transferências, exercício do bootcamp Santander + DIO | Java, orientação a objetos |
+| [Design Patterns](https://github.com/nayjoplin/explorando-design-patterns-java_) | Exercícios de Singleton, Strategy e Facade, formação Santander + DIO | Java |
+| [Microsserviços Palavras](https://github.com/nayjoplin/microservicos-palavras) | Estudo de processamento de palavras e serviços de backend | Java |
 
-- **BTI / Engenharia da Computação** — UNIVESP · alteração de curso a confirmar
-- **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul · cursando
-- **Marketing** — UniBF · cursando
-- **Artes Visuais** — estudos na PUC-Campinas (2015–2018)
+### Produtos digitais e dados
 
-**Cursos e programas selecionados:** Java, Python, Angular e AWS (GFT Technology, 2026); Aspire Leaders Program (Aspire Institute, 2026); Desenvolvimento de Software (Grupo Boticário + Koru, 2025); Back-End com Java (Santander + DIO, 2025); Java Bootcamp (GFT + DIO, 2025).
+| Projeto | O que apresento | Repositório ou case |
+| --- | --- | --- |
+| **Optical Growth OS V2** | Protótipo local de CRM e acompanhamento de campanhas, validado com dados fictícios, sem operação em produção comprovada | [Conhecer o case](https://nayjoplin.github.io/cases/optical-growth-os.html) |
+| **Okan Nexus** | Projeto de dashboard e plataforma digital | [Ver código](https://github.com/nayjoplin/okan-nexus-dash) |
+| **Gerador de Currículos** | Projeto de aplicação para criação de currículos | [Ver código](https://github.com/nayjoplin/gerador-de-curriculo) |
+| **Agência de IA das Ópticas** | Arquitetura proposta de agentes para atividades de Growth e marketing | [Conhecer o case](https://nayjoplin.github.io/cases/agencia-ia-opticas.html) |
 
-**Estudando agora:** CS50’s Introduction to Programming with Python, Harvard University — *em andamento*.
+### Inteligência artificial em desenvolvimento
 
-**Idiomas:** português nativo · espanhol avançado · inglês básico a intermediário · italiano básico.
+**ResolveAI** é um trabalho acadêmico informado em meu currículo como projeto de conclusão de curso em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, voltado a consultas a documentos com IA generativa
+
+Também estou estruturando os projetos **DemandIQ**, de previsão de demanda, e **SentinelAI**, de avaliação da qualidade de respostas de IA, que passarão a integrar esta seleção conforme suas implementações estiverem publicadas
+
+## Experiência que levo para tecnologia
+
+Atuei com estratégias B2B e B2C, campanhas de performance, CRM, automação, análise de indicadores e coordenação de equipes
+
+Essa vivência me ajuda a observar software por dois lados, a qualidade técnica de uma aplicação e a experiência de quem depende dela para trabalhar
+
+## Formação
+
+| Curso | Instituição | Situação |
+| --- | --- | --- |
+| Análise e Desenvolvimento de Sistemas | Universidade Cruzeiro do Sul | Em andamento, conclusão prevista para dezembro de 2027 |
+| Tecnologia da Informação e trajetória para Engenharia da Computação | UNIVESP | Em andamento, mudança de curso a confirmar |
+| Marketing | UniBF | Em andamento |
+
+### Formação complementar
+
+Java, Python, Angular e AWS pela GFT Technology · Desenvolvimento de Software pelo Grupo Boticário + Koru · Backend Java pelo Santander + DIO · Bootcamp Java pela GFT + DIO · Growth Marketing pela V4 Company
+
+CS50's Introduction to Programming with Python, Harvard, em andamento
+
+## Tecnologias e interesses
+
+**Backend**  Java, Spring Boot, APIs REST, orientação a objetos e SQL
+
+**Dados e IA**  Python, análise de dados, automações, sistemas com LLMs e recuperação de informação, com estudos e projetos em desenvolvimento
+
+**Produto e negócio**  Growth, CRM, métricas de aquisição, jornada de clientes e melhoria de processos
 
 ---
 
 <div align="center">
 
-### Vamos conversar?
+**Da experiência com negócios à construção de produtos digitais**
 
-Se você está buscando alguém que conecte **engenharia de software, dados e visão de negócio**, conheça meus projetos e minha trajetória.
+[Conheça meu trabalho](https://nayjoplin.github.io/) · [Entre em contato](https://nayjoplin.github.io/contato.html)
 
-[![Conhecer o portfólio](https://img.shields.io/badge/CONHECER_MEUS_PROJETOS-171614?style=for-the-badge&logo=githubpages&logoColor=white)](https://nayjoplin.github.io/)
-[![Entrar em contato](https://img.shields.io/badge/VAMOS_CONVERSAR-B9694C?style=for-the-badge&logo=gmail&logoColor=white)](https://nayjoplin.github.io/contato.html)
-
-<sub>Vinhedo · São Paulo · Brasil — feito com atenção ao detalhe.</sub>
+Vinhedo, São Paulo, Brasil
 
 </div>
