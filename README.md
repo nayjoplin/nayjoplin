@@ -15,30 +15,45 @@
 
 Minha trajetória passa por **desenvolvimento back-end, Growth, MarTech e análise de dados**. Trabalhei com operações digitais, CRM, campanhas e equipes — e encontrei no desenvolvimento de software uma forma de ir além dos diagnósticos: construir ferramentas para resolver os problemas.
 
-Tive experiência de estágio com **Java, Spring Boot, APIs REST e SQL na GFT Technologies**. Hoje continuo aprofundando Java, Python e inteligência artificial aplicada. Quero criar soluções que façam sentido para quem usa, com uma base técnica sólida e olhar para o negócio.
+Estudei **Java, Spring Boot, APIs REST e SQL**, com formações complementares incluindo a GFT e a DIO. Hoje continuo aprofundando Java, Python e inteligência artificial aplicada. Quero criar soluções que façam sentido para quem usa, com uma base técnica sólida e olhar para o negócio.
 
 > **Da estratégia ao código. Do problema à solução.**
 
-**Atualmente:** estudante de **Engenharia da Computação (UNIVESP)** e **Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)**, com foco em engenharia de software, back-end e IA.
+**Atualmente:** estudante de **Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul)**, **Marketing (UniBF)** e trajetória em **BTI / Engenharia da Computação (UNIVESP)** com situação da mudança de curso a confirmar
 
 ---
 
 ## Projetos selecionados
 
-Projetos de estudo, aplicações e protótipos em diferentes estágios de desenvolvimento. Os cases informam o que já foi realizado e o que ainda está em construção.
+Reúno projetos de trabalho, estudos e produtos em fases diferentes, com separação entre o que está implementado e o que ainda está no roteiro
 
-| Projeto | O que exploro | Código / case |
+### Growth, dados e produto
+
+| Projeto | Estado verificado | Acesso |
 | :--- | :--- | :--- |
-| **Hospital Microservices** | Java, Spring Boot e arquitetura de microsserviços para processos hospitalares | [GitHub](https://github.com/nayjoplin/hospital-microservices2) · [Case](https://nayjoplin.github.io/cases/hospital-microservices.html) |
-| **Banco Digital** | Programação orientada a objetos, contas bancárias e operações em Java | [GitHub](https://github.com/nayjoplin/banco-digital-poo-dio) · [Case](https://nayjoplin.github.io/cases/digital-bank.html) |
-| **Beauty Sales Intelligence** | Dados, visualização e inteligência comercial | [GitHub](https://github.com/nayjoplin/BEAUTY-SALES-INTELLIGENCE-DASHBOARD) · [Case](https://nayjoplin.github.io/cases/beauty-sales-intelligence.html) |
-| **Optical Growth OS V2** | Protótipo local de CRM, campanhas e indicadores, validado com dados fictícios | [Case](https://nayjoplin.github.io/cases/optical-growth-os.html) |
-| **Agência de IA das Ópticas** | Arquitetura e protótipo de agentes para fluxos de Growth e marketing; ainda não validado em produção | [Case](https://nayjoplin.github.io/cases/agencia-ia-opticas.html) |
-| **Design Patterns Java** | Prática com Singleton, Strategy e Facade | [GitHub](https://github.com/nayjoplin/explorando-design-patterns-java_) |
+| **Optical Growth OS V2** | Protótipo local com dados fictícios, integração real a validar | [Case](https://nayjoplin.github.io/cases/optical-growth-os.html) |
+| **Okan Nexus** | Repositório com código, execução ainda a validar | [Código](https://github.com/nayjoplin/okan-nexus-dash) |
+| **Gerador de Currículos** | Repositório existente, funcionalidades a auditar | [Código](https://github.com/nayjoplin/gerador-de-curriculo) |
+| **Growth Intelligence Platform** | Blueprint de 8 etapas, implementação planejada | [Plano](./portfolio-projects/growth-intelligence-platform/README.md) |
 
-**Em desenvolvimento:** ResolveAI (assistente com LLMs e RAG), DemandIQ (dados e aprendizado de máquina) e SentinelAI (avaliação de respostas de IA). São projetos em construção, não produtos em produção.
+### Backend e engenharia de software
 
-[**Explorar todos os projetos no portfólio →**](https://nayjoplin.github.io/tech.html) · [**Ver índice e roadmap no GitHub →**](./portfolio-projects/README.md)
+| Projeto | Origem e estado | Acesso |
+| :--- | :--- | :--- |
+| **Hospital Microservices** | Código existente em Java e Spring, execução a revisar, vínculo acadêmico não confirmado | [Código](https://github.com/nayjoplin/hospital-microservices2) |
+| **Banco Digital POO** | Exercício do Santander + DIO com operações em Java | [Código](https://github.com/nayjoplin/banco-digital-poo-dio) |
+| **Design Patterns Java** | Exercício Santander + DIO, padrões Singleton, Strategy e Facade | [Código](https://github.com/nayjoplin/explorando-design-patterns-java_) |
+| **Digital Banking API** | Evolução autoral planejada do exercício original | [Plano](./portfolio-projects/digital-banking-api/README.md) |
+
+### Inteligência artificial
+
+| Projeto | Contexto | Acesso |
+| :--- | :--- | :--- |
+| **ResolveAI** | Projeto informado no currículo como TCC da Cruzeiro do Sul, em desenvolvimento | [Plano](./portfolio-projects/resolve-ai/README.md) |
+| **DemandIQ** | Previsão de demanda, projeto autoral planejado | [Plano](./portfolio-projects/demandiq/README.md) |
+| **SentinelAI** | Avaliação de qualidade de respostas de IA, projeto autoral planejado | [Plano](./portfolio-projects/sentinel-ai/README.md) |
+
+[Ver todos os blueprints de 8 dias](./portfolio-projects/README.md) · [Portfólio online](https://nayjoplin.github.io/tech.html)
 
 ---
 
@@ -79,7 +94,7 @@ Na minha trajetória em marketing e Growth, **coordenei uma equipe de aproximada
 
 ## Formação & desenvolvimento
 
-- **Engenharia da Computação** — UNIVESP · cursando
+- **BTI / Engenharia da Computação** — UNIVESP · alteração de curso a confirmar
 - **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul · cursando
 - **Marketing** — UniBF · cursando
 - **Artes Visuais** — estudos na PUC-Campinas (2015–2018)
