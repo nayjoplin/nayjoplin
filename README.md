@@ -20,6 +20,33 @@ Gosto de entender o contexto de uma operação, investigar o que precisa melhora
 
 ## Projetos em destaque
 
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/nayjoplin/hospital-microservices2"><img src="https://raw.githubusercontent.com/nayjoplin/hospital-microservices2/main/assets/cover.svg" alt="Hospital Microservices" width="100%"></a>
+<strong>Hospital Microservices</strong><br>
+Java · Spring Boot · Microsserviços
+</td>
+<td width="50%">
+<a href="https://nayjoplin.github.io/cases/optical-growth-os.html"><img src="https://nayjoplin.github.io/assets/covers/optical-growth-os.svg" alt="Optical Growth OS" width="100%"></a>
+<strong>Optical Growth OS V2</strong><br>
+Growth · CRM · Dados
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/nayjoplin/okan-nexus-dash"><img src="https://raw.githubusercontent.com/nayjoplin/okan-nexus-dash/main/assets/cover.svg" alt="Okan Nexus" width="100%"></a>
+<strong>Okan Nexus</strong><br>
+Produto digital · Dashboard
+</td>
+<td width="50%">
+<a href="https://github.com/nayjoplin/banco-digital-poo-dio"><img src="https://raw.githubusercontent.com/nayjoplin/banco-digital-poo-dio/main/assets/cover.svg" alt="Banco Digital" width="100%"></a>
+<strong>Banco Digital</strong><br>
+Java · POO · Santander + DIO
+</td>
+</tr>
+</table>
+
 ### Engenharia de software
 
 | Projeto | O que apresento | Tecnologias |
