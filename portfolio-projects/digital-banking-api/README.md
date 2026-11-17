@@ -1,5 +1,9 @@
 # Digital Banking API
 
+**Origem**  Evolução autoral do exercício Santander + DIO, não projeto de faculdade
+
+**Status**  Blueprint e preparação, API final ainda não comprovada
+
 Projeto de back-end para simular operações bancárias essenciais, com foco em Java, Spring Boot, APIs REST, regras de negócio, persistência de dados e documentação técnica.
 
 ## Objetivo
@@ -79,3 +83,74 @@ src/main/java
 ## Diferencial para recrutadores
 
 Este projeto demonstra base sólida em back-end, APIs, modelagem de dados, regras de negócio e raciocínio aplicado a sistemas financeiros.
+
+
+## Blueprint de 8 noites, 4 horas por noite
+
+### Dia 1 | Revisar o exercício POO original e executar operações existentes
+
+Objetivo  Revisar o exercício POO original e executar operações existentes
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 2 | Criar nova aplicação Spring Boot separada do bootcamp
+
+Objetivo  Criar nova aplicação Spring Boot separada do bootcamp
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 3 | Modelar entidades e persistência PostgreSQL
+
+Objetivo  Modelar entidades e persistência PostgreSQL
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 4 | Implementar depósito, saque e transferência transacional
+
+Objetivo  Implementar depósito, saque e transferência transacional
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 5 | Expor endpoints REST e validar entradas
+
+Objetivo  Expor endpoints REST e validar entradas
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 6 | Adicionar autenticação e autorização
+
+Objetivo  Adicionar autenticação e autorização
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 7 | Criar testes com JUnit e documentação OpenAPI
+
+Objetivo  Criar testes com JUnit e documentação OpenAPI
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+### Dia 8 | Publicar evidências e revisar o README
+
+Objetivo  Publicar evidências e revisar o README
+
+Na máquina local  Ler a implementação atual, refazer a solução passo a passo, executar, testar, registrar em `docs/diario.md` o que aprendeu e criar commit apenas das alterações realizadas
+
+Entrega  Código e teste correspondentes, sem divulgar recursos pendentes como concluídos
+
+## Rotina
+
+40 min estudando conceitos, 130 min implementando e refazendo, 45 min testando, 25 min registrando aprendizados e commit
